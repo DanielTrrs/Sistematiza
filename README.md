@@ -1,13 +1,19 @@
 # Sistematiza
 
 Pré-requisitos
+
 Linguagem Java versão 17
+
 Banco de dados PostgreSQL
 
 Instalação
+
 Clonagem do projeto
+
 Importação para o Eclipse
+
 Conversão do projeto para Maven
+
 Inicialização
 
 Acesso
@@ -48,4 +54,5 @@ Para alterar um entregador
 
 
 Resolução do Problema
+
 O código apresentado implementa um controlador (controller) em uma aplicação Spring Boot para gerenciar operações relacionadas a entregadores. Ele resolve o problema de criar, listar, detalhar, atualizar e excluir informações sobre entregadores em um sistema.
